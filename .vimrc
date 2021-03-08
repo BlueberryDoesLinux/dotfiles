@@ -5,7 +5,8 @@
 "  _   \ V /  | | | | | | | | | |    | (__ 
 " (_)   \_/   |_| |_| |_| |_| |_|     \___|
 "                                          
-" Config by Robert / Blueberry                                          
+" Config by Robert / Blueberry
+" Credit to the Vim-plug devs and Lightline devs as I stole some of their stuff for this                                          
 
 
 " Install vim-plug if not found
