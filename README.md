@@ -13,15 +13,15 @@ Just put them in the right folders, change any mentions of my username (Blueberr
 ---
 
 # Dependencies
-* Zsh
-Oh My Zsh (ohmyz.sh)
-Powerline Fonts (fonts-powerline)
-Neofetch (neofetch)
-Procs (Install with Cargo)
-Bat (Install with Cargo or .deb)
-Exa (exa)
+* Zsh  
+Oh My Zsh (ohmyz.sh)  
+Powerline Fonts (fonts-powerline)  
+Neofetch (neofetch)  
+Procs (Install with Cargo)  
+Bat (Install with Cargo or .deb)  
+Exa (exa)  
   
-* Vim
+* Vim  
 Nothing. Just insert the config and run Vim. Restart Vim once it completes.
 ---
 # NOTE: I WILL NOT BE ADDING REQUESTED FEATURES THAT I DON'T WANT TO THESE CONFIGS!!!
