@@ -40,7 +40,7 @@ ZSH_THEME="agnoster"
 # DISABLE_UPDATE_PROMPT="true"
 
 # Uncomment the following line to change how often to auto-update (in days).
-export UPDATE_ZSH_DAYS=7
+# export UPDATE_ZSH_DAYS=7
 
 # Uncomment the following line if pasting URLs and other text is messed up.
 # DISABLE_MAGIC_FUNCTIONS="true"
@@ -106,15 +106,17 @@ source $ZSH/oh-my-zsh.sh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 
+# Dotfile Shortcuts
 alias zshrc="vim ~/.zshrc"
 alias omzrc="vim ~/.oh-my-zsh"
 alias vimrc="vim ~/.vimrc" 
+
+# Program Shortcuts
 alias clear="clear && neofetch"
 alias nclear="/usr/bin/clear"
-alias sm="~/streetmerchant && nclear && ./run.sh"
+alias doom="~/.emacs.d/bin/doom"
 alias ps="procs"
 alias cat="bat"
 alias ls="exa --all --long --group-directories-first"
 
 neofetch
-
