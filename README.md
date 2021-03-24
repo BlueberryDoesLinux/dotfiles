@@ -1,4 +1,5 @@
 # Blueberry's Dotfiles  
+This is what humanity peaked at  
 
 # What are these for?
 * Zsh
@@ -20,5 +21,5 @@ Exa (exa)
 Nothing. Just insert the config and run Vim. Restart Vim once it completes.
 
 
-# NOTE: I WILL NOT BE ADDING REQUESTED FEATURES THAT I DON'T WANT TO THESE CONFIGS!!!
+# NOTE: I WILL NOT BE ADDING FEATURES THAT I DON'T WANT TO THESE CONFIGS!!!
 The reason for this is because I use these configs on a daily basis and if I'm not going to use something, I'm not adding it. Feel free to make suggestions but don't expect your changes to get pushed to master.
